@@ -1,0 +1,906 @@
+,cp,pays,ville,surface,nbPiece,idTypeBien,nbChambre,prix
+0,06300,France,Nice,28.45,1,9,1,480
+1,06110,France,Le Cannet,80,3,9,2,1400
+2,06400,France,Cannes,71,1,9,1,890
+3,06000,France,Nice,180,1,9,,700
+4,06300,France,Nice,,1,9,,2200
+0,13001,France,Marseille 1er,56.52,1,9,1,650
+1,13001,France,Marseille 1er,56.52,2,9,1,650
+2,13006,France,Marseille 6ème,40,1,9,2,590
+3,13100,France,Aix en Provence,42,1,9,1,720
+4,13001,France,Marseille 1er,88,3,9,,1020
+5,13007,France,Marseille 7ème,68,1,9,,750
+6,13150,France,Tarascon,65,2,9,,560
+0,25000,France,Besançon,167,4,9,3,1340
+1,25000,France,Besançon,190,5,9,,1441
+0,31300,France,Toulouse,1100,6,9,,5500
+0,34130,France,Mauguio,45,1,9,1,800
+1,34700,France,Soubes,45,1,9,1,410
+2,34000,France,Montpellier,30,1,9,1,200.87
+3,34500,France,Béziers,29,1,9,1,300
+4,34000,France,Montpellier,90,1,9,,1000
+5,34800,France,Clermont l Herault,60,1,9,,420
+0,35500,France,Vitré,,1,9,1,1200
+0,42000,France,Saint-Étienne,83,3,9,2,900
+1,42000,France,St Etienne,55,2,9,1,575
+0,44450,France,La Chapelle Basse Mer,70,3,9,2,650
+0,51000,France,Châlons-en-Champagne,114,,9,1,1250
+0,59300,France,Valenciennes,180,6,9,4,1365
+1,59200,France,Tourcoing,75,3,9,2,850
+2,59100,France,Roubaix,166,5,9,4,1260
+3,59500,France,Douai,135,2,9,1,1500
+4,59000,France,Lille,179.4,4,9,1,2700
+5,59100,France,Roubaix,264,5,9,1,1800
+6,59200,France,Tourcoing,61,2,9,,550
+0,69008,France,Lyon 8ème,140,4,9,,850
+0,72000,France,Le Mans,228.89,6,9,4,1764.5
+0,75015,France,Paris 15ème,50,2,9,1,1700
+1,75006,France,Paris 6ème,40,2,9,1,1300
+2,75017,France,Paris 17ème,77.38,2,9,1,1800
+3,75005,France,Paris 5ème,43.66,1,9,1,1999
+4,75011,France,Paris 11ème,150,6,9,3,3295
+5,75116,France,Paris 16ème,104,3,9,2,3400
+6,75005,France,Paris 5ème,65,3,9,2,2132
+7,75009,France,Paris 9ème,42,1,9,1,1338
+8,75001,France,Paris 1er,50,1,9,1,2200
+9,75004,France,Paris 4ème,125,4,9,2,2750
+10,75002,France,Paris 2ème,85,2,9,1,3500
+11,75014,France,Paris 14ème,26,1,9,-1,810
+12,75008,France,Paris 8ème,65,2,9,1,2500
+13,75010,France,Paris 10ème,155,3,9,2,4000
+14,75009,France,Paris 9ème,137,3,9,,2870
+0,83000,France,Toulon,65,2,9,1,940
+0,92340,France,Bourg la Reine,119.21,4,9,3,1800
+1,92150,France,Suresnes,120,5,9,3,2500
+2,92250,France,La Garenne Colombes,250,2,9,1,4800
+3,92700,France,Colombes,70,1,9,1,1400
+4,92600,France,Asnières sur Seine,73,2,9,1,1300
+5,92300,France,Levallois Perret,136,3,9,2,3205
+0,06000,France,Nice,93.79,3,9,2,380000
+1,06400,France,Cannes,90,3,9,2,300000
+2,06400,France,Cannes,45,1,9,1,595500
+3,06300,France,Nice,91,3,9,2,385000
+4,06500,France,Menton,76,4,9,2,425000
+5,06000,France,Nice,129,4,9,2,539000
+6,06500,France,Menton,166,5,9,4,1620000
+7,06400,France,Cannes,83,3,9,1,162750
+8,06000,France,Nice,114,3,9,1,795000
+9,06000,France,Nice,186,4,9,1,1295000
+10,06000,France,Nice,191,5,9,1,1495000
+11,06140,France,Vence,80,2,9,1,185000
+12,06100,France,Nice,63,1,9,3,199100
+13,06300,France,Nice,44,2,9,6,229000
+14,06600,France,Antibes,43,1,9,2,230000
+15,06210,France,Mandelieu-la-Napoule,77.25,4,9,2,260000
+16,06600,France,Antibes,202,7,9,2,340000
+17,06000,France,Nice,93,3,9,2,355000
+18,06400,France,Cannes,75,3,9,2,380000
+19,06000,France,Nice,100,3,9,3,385000
+20,06000,France,Nice,100,3,9,3,450000
+21,06000,France,Nice,84,3,9,2,455000
+22,06400,France,Cannes,116.84,4,9,3,462000
+23,06000,France,Nice,102,4,9,3,495000
+24,06000,France,Nice,114,3,9,2,550000
+25,06130,France,Grasse,122.63,5,9,3,599000
+26,06400,France,Cannes,149,5,9,4,693000
+27,06190,France,Roquebrune Cap Martin,115,3,9,2,745000
+28,06600,France,Antibes,147.95,4,9,3,775000
+29,06400,France,Cannes,230,6,9,2,890000
+30,06400,France,Cannes,225,3,9,3,920000
+31,06000,France,Nice,231.59,4,9,4,1090000
+32,06000,France,Nice,231.59,5,9,1,1090000
+33,06400,France,Cannes,202,5,9,2,1390000
+34,06000,France,Nice,158,5,9,4,1398000
+35,06000,France,Nice Cimiez,76.4,1,9,2,295000
+36,06000,France,Nice,104,2,9,3,320000
+37,06000,France,Nice,144.5,3,9,4,415000
+38,06000,France,Nice,250,6,9,4,550000
+39,06140,France,Vence,142,4,9,2,735000
+40,06400,France,Cannes,200,7,9,2,795000
+41,06580,France,Pégomas,245,8,9,1,895000
+42,06700,France,Saint Laurent du Var,135,5,9,2,997000
+43,06400,France,Cannes,190,5,9,2,1120000
+44,06400,France,Cannes,172.6,5,9,1,1190000
+45,06300,France,Nice,42,1,9,,210000
+46,06300,France,Nice,44,1,9,,229000
+47,06300,France,Nice,100,3,9,,395000
+48,06400,France,Cannes,170,1,9,,790000
+49,06000,France,Nice,77,,9,,170000
+50,06400,France,Cannes,102,4,9,3,499000
+51,06400,France,Cannes,63,1,9,1,150000
+52,06400,France,Cannes,258,1,9,2,400000
+53,06500,France,Menton,43,2,9,1,297000
+54,06190,France,Roquebrune Cap Martin,180,2,9,1,450000
+55,06560,France,Sophia-Antipolis,65.61,1,9,3,200000
+56,06400,France,Cannes,100,4,9,1,530000
+57,06400,France,Cannes,70,2,9,1,328000
+58,06320,France,Cap d'Ail,131,5,9,1,550000
+59,06420,France,Rimplas,45,3,9,,33000
+60,06000,France,Nice,74,6,9,,420000
+61,06320,France,Cap d'Ail,106,2,9,,245000
+62,06600,France,Antibes,,2,9,,299000
+63,06620,France,Gréolières,,,9,,148400
+0,13100,France,Saint Marc Jaumegarde,278,6,9,5,1150000
+1,13006,France,Marseille 6ème,145,3,9,2,490000
+2,13006,France,Marseille 6ème,270,10,9,9,445000
+3,13003,France,Marseille 3ème,55,2,9,1,131000
+4,13006,France,Marseille 6ème,115.53,5,9,3,210000
+5,13001,France,Marseille 1er,70,1,9,1,240000
+6,13006,France,Marseille 6ème,100,4,9,2,265000
+7,13002,France,Marseille 2ème,95,2,9,1,295000
+8,13013,France,Marseille 13ème,117,5,9,3,379000
+9,13008,France,Marseille 8ème,139,4,9,3,598000
+10,13007,France,Marseille 7ème,209,3,9,2,695000
+11,13015,France,Marseille,450,8,9,6,795000
+12,13002,France,Marseille 2ème,40,5,9,3,225000
+13,13006,France,Marseille 6ème,120,3,9,1,130000
+14,13400,France,Aubagne,121,3,9,2,269000
+15,13001,France,Marseille 1er,390,1,9,2,425000
+16,13009,France,Marseille 9ème,150,10,9,4,479000
+17,13100,France,Aix en Provence,160,3,9,2,795000
+18,13300,France,Salon de Provence,71,1,9,3,355000
+19,13200,France,Arles,75,1,9,1,162000
+20,13006,France,Marseille 6ème,60,3,9,2,95000
+21,13001,France,Marseille 1er,128,3,9,1,260000
+22,13006,France,Marseille 6ème,92.55,2,9,3,280000
+23,13006,France,Marseille 6ème,130,1,9,3,295000
+24,13124,France,Peypin,125,4,9,2,330000
+25,13001,France,Marseille 1er,137,3,9,3,395000
+26,13008,France,Marseille 8ème,300,5,9,3,598000
+27,13300,France,Salon de Provence,200,4,9,3,624000
+28,13550,France,Noves,237,5,9,4,845000
+29,13100,France,Aix en Provence,83,6,9,1,1150000
+30,13500,France,Martigues,140,1,9,3,145000
+31,13005,France,Marseille 5ème,42,5,9,1,199000
+32,13100,France,Aix en Provence,89,1,9,4,210000
+33,13200,France,Arles,92.25,1,9,3,231000
+34,13006,France,Marseille 6ème,240,1,9,3,280000
+35,13013,France,Marseille 13ème,150,6,9,1,450000
+36,13006,France,Marseille 6ème,250,1,9,1,469000
+37,13540,France,Aix en Provence,180,5,9,2,1070000
+38,13260,France,Cassis,54,6,9,1,1285000
+39,13006,France,Marseille 6ème,41,2,9,1,159900
+40,13100,France,Aix en Provence,194,4,9,4,155000
+41,13006,France,Marseille 6ème,58.21,1,9,1,480000
+42,13002,France,Marseille 2ème,90,2,9,1,76000
+43,13009,France,Marseille 9ème,150,5,9,,279000
+44,13014,France,Marseille 14ème,98,1,9,,136000
+45,13002,France,Marseille 2ème,109.52,2,9,,149000
+46,13001,France,Marseille 1er,,,9,,118000
+0,21000,France,Dijon,400,6,9,4,349000
+1,21000,France,Dijon,157,5,9,3,427000
+2,21000,France,Dijon,166,6,9,3,1470000
+3,21000,France,Dijon,500,7,9,5,449000
+4,21200,France,Beaune,85,5,9,1,125000
+5,21121,France,Fontaine les Dijon,,1,9,,
+0,25000,France,Besancon,116,5,9,3,199000
+1,25870,France,Bonnay,120,6,9,4,58000
+0,29770,France,Audierne,63,2,9,1,135000
+1,29800,France,Ploudiry,217,8,9,5,80000
+2,29200,France,Brest,74,3,9,1,104300
+3,29160,France,Crozon,150,5,9,3,595000
+4,29120,France,Pont-l'Abbe,57,3,9,3,110000
+0,30200,France,Codolet,170,5,9,1,92000
+1,30470,France,Aimargues,190,1,9,2,330000
+2,30200,France,Codolet,156,1,9,1,77000
+3,30900,France,Nimes,160,5,9,4,336000
+4,30100,France,Ales,180,5,9,3,399000
+5,30000,France,Nimes,183,5,9,4,435000
+6,30700,France,Uzes,270,7,9,4,590000
+7,30100,France,Ales,200,6,9,5,680000
+8,30300,France,Beaucaire,170,7,9,4,250000
+9,30210,France,Castillon du Gard,160,2,9,1,119000
+10,30000,France,Nimes,67,2,9,1,184000
+11,30000,France,Nimes,220,6,9,4,499000
+12,30620,France,Bernis,175,1,9,,225000
+0,31400,France,Toulouse,138,3,9,2,399000
+1,31270,France,Frouzins,70,3,9,2,184000
+2,31620,France,Fronton,60,1,9,1,99900
+3,31220,France,Cazeres,295,2,9,1,250000
+4,31580,France,Lecussan,213,1,9,1,85000
+5,31120,France,Roquettes,85,4,9,2,185500
+6,31000,France,Toulouse,150,3,9,3,365000
+7,31300,France,Toulouse,79.65,4,9,5,329000
+8,31290,France,Villefranche de Lauragais,230,8,9,1,375000
+9,31200,France,Toulouse,95,2,9,4,188000
+10,31380,France,Montastruc la Conseillere,367,4,9,,470000
+11,31200,France,Toulouse,173,5,9,,530000
+12,31500,France,Toulouse,50.6,1,9,,136000
+0,33000,France,Bordeaux,240,7,9,2,824000
+1,33000,France,Bordeaux,150,2,9,2,735000
+2,33000,France,Bordeaux,270,5,9,3,990000
+3,33200,France,Bordeaux 33200,295,8,9,6,870000
+4,33800,France,Bordeaux,150,3,9,2,467000
+5,33000,France,Bordeaux,320,5,9,4,1600000
+6,33000,France,Bordeaux,120,2,9,3,330000
+7,33140,France,Villenave d Ornon,160,1,9,3,359000
+8,33000,France,Bordeaux,133,4,9,3,449500
+9,33000,France,Bordeaux,133,4,9,2,450000
+10,33800,France,Bordeaux,150,3,9,3,479000
+11,33000,France,Bordeaux,160,6,9,2,628000
+12,33000,France,Bordeaux,155,3,9,4,630000
+13,33200,France,Bordeaux,130,5,9,2,670000
+14,33200,France,Bordeaux,195,5,9,4,730000
+15,33110,France,Le Bouscat,250,5,9,3,795000
+16,33000,France,Bordeaux,110,4,9,4,796000
+17,33000,France,Bordeaux,300,7,9,4,869000
+18,33200,France,Bordeaux,300,8,9,4,884000
+19,33000,France,Bordeaux,300,7,9,3,885000
+20,33800,France,Bordeaux,210,4,9,6,885000
+21,33300,France,Bordeaux,220,7,9,5,1125000
+22,33300,France,Bordeaux,364,8,9,3,1575000
+23,33310,France,Lormont,134,4,9,4,630000
+24,33990,France,Hourtin,133,5,9,3,276000
+25,33000,France,Bordeaux,130,4,9,2,449500
+26,33800,France,Bordeaux,150,4,9,2,479000
+27,33000,France,Bordeaux,220,4,9,3,479000
+28,33800,France,Bordeaux,170,6,9,1,525000
+29,33700,France,Merignac,150,5,9,4,599900
+30,33000,France,Bordeaux,205,2,9,1,630000
+31,33120,France,Arcachon,260,6,9,1,630000
+32,33300,France,Bordeaux,240,4,9,3,698000
+33,33000,France,Bordeaux,172,6,9,5,824000
+34,33000,France,Bordeaux,300,5,9,5,850000
+35,33000,France,Bordeaux,300,7,9,5,890000
+36,33000,France,Bordeaux,280,7,9,3,890000
+37,33000,France,Bordeaux,300,8,9,3,1160000
+38,33000,France,Bordeaux,450,4,9,3,1200000
+39,33000,France,Bordeaux,300,6,9,3,1263000
+40,33200,France,Bordeaux,290,4,9,3,1297000
+41,33200,France,Bordeaux Caudéran,280,4,9,1,1299000
+42,33000,France,Bordeaux,380,5,9,2,1299000
+43,33100,France,Bordeaux,202,4,9,1,590000
+44,33200,France,Bordeaux,280,1,9,4,600000
+45,33000,France,Bordeaux,300,4,9,2,849520
+46,33200,France,Bordeaux,220,4,9,3,890000
+47,33000,France,Bordeaux,345,5,9,,892000
+48,33300,France,Bordeaux,163,,9,,630000
+49,33700,France,Merignac,,,9,,599000
+50,33800,France,Bordeaux,247,4,9,3,1100000
+51,33500,France,Libourne,104,2,9,1,103000
+52,33800,France,Bordeaux,225,4,9,2,525000
+53,33000,France,Bordeaux,160,5,9,3,630000
+54,33000,France,Bordeaux,220,6,9,3,526000
+55,33120,France,Arcachon,187,2,9,1,702150
+56,33120,France,Arcachon,65,2,9,,787500
+57,33200,France,Bordeaux,96.4,,9,,193000
+0,34500,France,Beziers,73,2,9,1,170000
+1,34670,France,Baillargues,200,8,9,4,439000
+2,34000,France,Montpellier,108.1,4,9,3,449000
+3,34000,France,Montpellier,220,5,9,1,449000
+4,34800,France,Clermont-l'Herault,550,1,9,1,129000
+5,34970,France,Lattes,73,2,9,1,250000
+6,34000,France,Montpellier,103,4,9,3,555900
+7,34590,France,Marsillargues,151.58,5,9,3,585000
+8,34000,France,Montpellier,111,4,9,3,459000
+9,34450,France,Vias,205,1,9,1,599000
+10,34000,France,Montpellier,650,16,9,15,2000000
+11,34520,France,Le Caylar,120,1,9,1,72000
+12,34230,France,Paulhan,140,6,9,4,100000
+13,34120,France,Pezenas,58,1,9,3,114000
+14,34370,France,Cazouls les Beziers,170,4,9,2,239000
+15,34400,France,Lunel,102,4,9,,142000
+0,35210,France,Chatillon en Vendelais,520,5,9,1,131250
+1,35300,France,Fougeres,297.2,8,9,6,310500
+2,35300,France,Fougeres,267.46,6,9,3,437750
+3,35800,France,Dinard,120,1,9,,150000
+4,35800,France,Dinard,200,,9,,190000
+0,37400,France,Amboise,90,1,9,1,30000
+1,37000,France,Tours,93,3,9,1,109000
+2,37520,France,La Riche,360,6,9,4,779500
+3,37000,France,Tours,200,6,9,1,600000
+4,37380,France,Nouzilly,800,2,9,,190000
+5,37000,France,Tours,,1,9,,580000
+0,38630,France,Avenières,235,7,9,4,272000
+1,38210,France,Tullins,52,2,9,1,99000
+2,38000,France,Grenoble,140,6,9,4,445000
+3,38470,France,Chasselay,120,5,9,3,188000
+4,38100,France,Grenoble,247,6,9,1,399000
+5,38160,France,Saint-Marcellin,222,4,9,1,45000
+6,38110,France,La Tour du Pin,171,2,9,1,168000
+7,38000,France,Grenoble,62.36,1,9,1,150000
+8,38070,France,Saint-Quentin-Fallavier,189,6,9,1,272000
+9,38000,France,Grenoble,355,2,9,4,449000
+10,38200,France,Vienne,63.81,4,9,1,115000
+11,38300,France,Bourgoin Jallieu,148,5,9,3,400000
+12,38000,France,Grenoble,355,2,9,1,449000
+13,38500,France,Voiron,49,4,9,1,105000
+14,38200,France,Vienne,123.95,2,9,1,77000
+15,38780,France,Pont Eveque,51,1,9,3,82000
+16,38500,France,Saint-Cassien,55,5,9,,210000
+17,38500,France,Voiron,300,5,9,,50000
+18,38110,France,Dolomieu,133,5,9,,118000
+19,38121,France,Reventin Vaugris,52,4,9,,85000
+20,38790,France,Charantonnay,80,4,9,,68250
+21,38700,France,La Tronche,80,3,9,,250000
+22,38300,France,Culin,90,,9,,79000
+23,38790,France,Charantonnay,,,9,,105000
+0,42100,France,Saint Etienne,85,4,9,2,255000
+1,42000,France,Saint-Etienne,220,4,9,3,273000
+2,42000,France,Saint-Etienne,95,5,9,3,90000
+3,42300,France,Roanne,309,6,9,3,260000
+4,42300,France,Roanne,336.43,7,9,5,395000
+5,42300,France,Roanne,247,1,9,3,360000
+6,42140,France,Chazelles sur Lyon,320,6,9,4,285000
+7,42100,France,Saint-Etienne,108,5,9,3,105000
+8,42000,France,Saint-Étienne,100,2,9,1,65000
+9,42000,France,Saint-Etienne,67,1,9,3,86000
+10,42000,France,Saint-Etienne,123,4,9,1,175000
+11,42300,France,Roanne,217,1,9,2,215000
+12,42000,France,St Etienne,86,4,9,3,86000
+13,42300,France,Roanne,230,6,9,4,260000
+14,42300,France,Roanne,309.16,6,9,4,260000
+15,42190,France,Charlieu,210,1,9,3,263000
+16,42300,France,Roanne,200,6,9,3,296500
+17,42300,France,Roanne,232,5,9,4,436000
+18,42000,France,Saint-Etienne,225,8,9,2,475000
+19,42000,France,St Etienne,115,4,9,3,189000
+20,42000,France,St Etienne,124.63,4,9,3,192000
+21,42300,France,Roanne,166,5,9,1,240000
+22,42300,France,Roanne,309,1,9,3,260000
+23,42300,France,Roanne,300,7,9,3,263000
+24,42570,France,Saint Heand,141.02,4,9,6,272000
+25,42400,France,St Chamond,280.43,7,9,4,299000
+26,42300,France,Roanne,340,8,9,1,372000
+27,42300,France,Roanne,166,1,9,1,240000
+28,42000,France,St Etienne,72,3,9,1,69000
+29,42000,France,Saint-Etienne,80,3,9,3,195000
+30,42400,France,Saint-Chamond,106,4,9,3,199900
+31,42300,France,Roanne,280,7,9,3,173000
+32,42300,France,Roanne,240,6,9,3,260000
+33,42120,France,Le Coteau,200,5,9,3,270000
+34,42100,France,Saint-Etienne,124,5,9,3,327000
+35,42000,France,St Etienne,98,4,9,3,79000
+36,42100,France,St Etienne,115,5,9,3,133000
+37,42400,France,St Chamond,125,6,9,1,130000
+38,42000,France,St Etienne,174,1,9,5,70000
+39,42700,France,Firminy,92,1,9,1,80000
+40,42800,France,Rive-de-Gier,97,6,9,1,161000
+41,42600,France,Montbrison,250,1,9,,106000
+42,42700,France,Firminy,119,30,9,,85000
+43,42153,France,Riorges,2100,,9,,399000
+44,42600,France,Montbrison,230,,9,,96000
+0,44780,France,Missillac,126,4,9,1,254000
+1,44000,France,Nantes,208,7,9,5,798000
+2,44500,France,La Baule-Escoublac,240,7,9,4,850000
+3,44000,France,Nantes,265,7,9,4,895000
+4,44000,France,Nantes,104,4,9,2,332800
+5,44000,France,Nantes,208,4,9,5,789000
+6,44500,France,La Baule-Escoublac,200,6,9,5,850000
+7,44270,France,Machecoul,120,4,9,2,264000
+8,44270,France,Machecoul,120,5,9,2,264000
+9,44400,France,Reze,140,5,9,3,449000
+10,44500,France,La Baule-Escoublac,179,6,9,3,499990
+11,44000,France,Nantes,135,5,9,3,537000
+12,44000,France,Nantes,160,9,9,2,1050000
+13,44000,France,Nantes,335,6,9,4,1140000
+14,44000,France,Nantes,200,5,9,3,397000
+15,44000,France,Nantes,141,4,9,3,499000
+16,44,France,Nantes,1000,10,9,1,1100000
+17,44000,France,Nantes,265,7,9,4,898000
+0,45000,France,Orleans,35.5,3,9,2,87000
+0,49100,France,Angers,220,5,9,3,490700
+1,49300,France,Cholet,180,6,9,4,245000
+2,49300,France,Cholet,180,6,9,4,245000
+3,49300,France,Cholet,170,6,9,4,247075
+4,49000,France,Angers,85,3,9,3,85000
+5,49000,France,Angers,150,5,9,,165000
+0,51500,France,Ecueil,470,10,9,6,546000
+1,51100,France,Reims,83.35,1,9,3,120000
+2,51000,France,Chalons-en-Champagne,513,12,9,6,562000
+3,51100,France,Reims,350,8,9,5,895000
+4,51100,France,Reims,360,9,9,5,920000
+0,57130,France,Jouy Aux Arches,150,6,9,1,219000
+1,57000,France,Metz,113,4,9,2,255000
+2,57050,France,Longeville les Metz,132.5,5,9,3,365000
+3,57000,France,Metz,203,5,9,3,280000
+0,59200,France,Tourcoing,313,5,9,3,399000
+1,59280,France,Armentieres,90,1,9,1,98800
+2,59710,France,Avelin,112,4,9,3,265000
+3,59200,France,Tourcoing,225,5,9,4,495000
+4,59100,France,Roubaix,93,4,9,2,175000
+5,59100,France,Roubaix,120,3,9,2,189000
+6,59100,France,Roubaix,170,5,9,4,199000
+7,59100,France,Roubaix,170,5,9,2,209000
+8,59100,France,Roubaix,130,4,9,2,217000
+9,59200,France,Tourcoing,175,3,9,2,230000
+10,59790,France,Ronchin,165,3,9,2,249000
+11,59200,France,Tourcoing,159,4,9,3,256000
+12,59100,France,Roubaix,195,3,9,2,265000
+13,59320,France,Sequedin,106,5,9,2,275000
+14,59113,France,Seclin,140,3,9,2,285000
+15,59100,France,Roubaix,180,5,9,3,299500
+16,59100,France,Roubaix,180,4,9,3,299500
+17,59100,France,Roubaix,162,6,9,4,330000
+18,59100,France,Roubaix,220,5,9,4,345000
+19,59200,France,Tourcoing,180,3,9,2,350000
+20,59200,France,Tourcoing,288,5,9,4,385980
+21,59100,France,Roubaix,210,2,9,1,389000
+22,59235,France,Bersee,350,6,9,5,398000
+23,59240,France,Dunkerque,280,7,9,4,461500
+24,59200,France,Tourcoing,295,5,9,5,480000
+25,59100,France,Roubaix,300,5,9,4,480000
+26,59800,France,Lille,300,4,9,3,500000
+27,59000,France,Lille,168,5,9,4,599000
+28,59120,France,Loos,270,5,9,3,630000
+29,59000,France,Lille,276,8,9,4,1590000
+30,59260,France,Hellemmes Lille,140,1,9,1,124000
+31,59210,France,Coudekerque Branche,138,1,9,1,148000
+32,59100,France,Roubaix,114,3,9,2,172000
+33,59260,France,Hellemmes Lille,100,3,9,2,223900
+34,59200,France,Tourcoing,140,3,9,2,225000
+35,59236,France,Frelinghien,137,3,9,2,225200
+36,59200,France,Tourcoing,170,5,9,3,235000
+37,59200,France,Tourcoing,173,4,9,3,249000
+38,59960,France,Neuville en Ferrain,163,5,9,2,269000
+39,59100,France,Roubaix,160,5,9,3,299000
+40,59800,France,Lille,84,2,9,1,315000
+41,59170,France,Croix,165,1,9,1,345000
+42,59150,France,Wattrelos,231,5,9,3,349000
+43,59260,France,Hellemmes,149,4,9,3,353000
+44,59100,France,Roubaix,270,6,9,4,395000
+45,59118,France,Wambrechies,125,4,9,3,420000
+46,59155,France,Faches Thumesnil,200,5,9,4,470000
+47,59510,France,Hem,290,5,9,4,695000
+48,59000,France,Lille,253,6,9,3,745000
+49,59200,France,Tourcoing,220,5,9,1,159000
+50,59200,France,Tourcoing,327,1,9,3,213500
+51,59200,France,Tourcoing,300,1,9,1,182500
+52,59100,France,Roubaix,154,5,9,4,345900
+53,59200,France,Tourcoing,60,1,9,1,78500
+54,59160,France,Lomme,88,5,9,1,165000
+55,59200,France,Tourcoing,288,10,9,1,385980
+56,59000,France,Lille,300,2,9,3,275000
+57,59100,France,Roubaix,67,2,9,3,128000
+58,59155,France,Faches-Thumesnil,65,7,9,4,175000
+59,59300,France,Valenciennes,180,3,9,3,189900
+60,59113,France,Seclin,94.75,5,9,4,204750
+61,59200,France,Tourcoing,145,4,9,2,208000
+62,59100,France,Roubaix,160,5,9,3,228000
+63,59100,France,Roubaix,154,3,9,1,229000
+64,59113,France,Seclin,94.75,6,9,2,231000
+65,59182,France,Loffre,200,4,9,3,237000
+66,59000,France,Lille,80,4,9,3,243300
+67,59200,France,Tourcoing,133,4,9,3,259000
+68,59150,France,Wattrelos,185,4,9,3,279800
+69,59100,France,Roubaix,170,4,9,4,299000
+70,59200,France,Tourcoing,180,4,9,4,310000
+71,59260,France,Hellemmes-Lille,140,5,9,3,357000
+72,59100,France,Roubaix,220,6,9,4,365000
+73,59200,France,Tourcoing,301,5,9,1,448000
+74,59000,France,Lille,222,1,9,3,458000
+75,59510,France,Hem,200,6,9,3,470000
+76,59000,France,Lille,320,5,9,5,520000
+77,59000,France,Lille,180.61,4,9,3,520000
+78,59000,France,Lille,161,8,9,3,880000
+79,59000,France,Lille,473,4,9,3,149000
+80,59700,France,Marcq en Baroeul,152.88,6,9,2,200000
+81,59000,France,Lille,326,5,9,4,218000
+82,59540,France,Caudry,110,3,9,2,240000
+83,59200,France,Tourcoing,106,7,9,2,245000
+84,59200,France,Tourcoing,250,4,9,5,399000
+85,59000,France,Lille,90,4,9,5,450000
+86,59139,France,Wattignies,126,9,9,4,480000
+87,59100,France,Roubaix,270,9,9,3,525000
+88,59200,France,Tourcoing,298,7,9,1,123500
+89,59200,France,Tourcoing,301.8,5,9,3,165000
+90,59110,France,La Madeleine,200,3,9,2,168000
+91,59280,France,Armentieres,63,4,9,1,185000
+92,59280,France,Armentieres,125,3,9,2,193000
+93,59200,France,Tourcoing,100,2,9,2,219000
+94,59100,France,Roubaix,112.97,3,9,2,220000
+95,59200,France,Tourcoing,100,4,9,4,235000
+96,59200,France,Tourcoing,101,3,9,1,241500
+97,59200,France,Tourcoing,139,5,9,,
+98,59200,France,Tourcoing,150,5,9,,
+99,59136,France,Wavrin,100,,9,,
+100,59790,France,Ronchin,135,3,9,2,249000
+101,59200,France,Tourcoing,152.92,4,9,3,249000
+102,59113,France,Seclin,131.78,4,9,3,310000
+103,59155,France,Faches-Thumesnil,145,4,9,3,345000
+104,59155,France,Faches-Thumesnil,230,5,9,4,362000
+105,59000,France,Lille,130,5,9,3,375000
+106,59155,France,Faches-Thumesnil,157,3,9,2,378000
+107,59200,France,Tourcoing,380,5,9,4,420000
+108,59200,France,Tourcoing,90,3,9,2,148000
+109,59200,France,Tourcoing,69,3,9,2,179000
+110,59200,France,Tourcoing,101,4,9,2,189000
+111,59200,France,Tourcoing,80,3,9,2,189000
+112,59200,France,Tourcoing,130,4,9,3,199000
+113,59200,France,Tourcoing,130,3,9,2,249000
+114,59118,France,Wambrechies,125,4,9,3,420000
+115,59100,France,Roubaix,580,10,9,1,490000
+116,59100,France,Roubaix,112,2,9,1,183750
+117,59000,France,Lille,222,4,9,3,473000
+118,59350,France,Saint-André-Lez-Lille,216,4,9,3,349000
+119,59200,France,Tourcoing,131,3,9,3,280000
+120,59200,France,Tourcoing,68,4,9,2,134000
+121,59100,France,Roubaix,270,3,9,3,199000
+122,59200,France,Tourcoing,125,3,9,2,225000
+123,59200,France,Tourcoing,110,4,9,2,229000
+124,59200,France,Tourcoing,160,5,9,3,230000
+125,59155,France,Faches-Thumesnil,156,1,9,4,245000
+126,59136,France,Wavrin,300,1,9,1,262500
+127,59200,France,Tourcoing,55,3,9,1,95000
+128,59200,France,Tourcoing,167,3,9,1,127000
+129,59100,France,Roubaix,105,4,9,2,198000
+130,59200,France,Tourcoing,236,6,9,3,219000
+131,59490,France,Somain,260,7,9,3,221400
+132,59200,France,Tourcoing,255,4,9,4,299000
+133,59500,France,Douai,150,4,9,3,109900
+134,59200,France,Tourcoing,112,2,9,1,229000
+135,59200,France,Tourcoing,,,9,,90000
+0,63450,France,St Sandoux,45,1,9,1,16000
+1,63550,France,Saint-Rémy-sur-Durolle,200,1,9,1,29000
+0,66660,France,Port Vendres,130,1,9,1,185000
+1,66100,France,Perpignan,108,1,9,2,139000
+2,66660,France,Port Vendres,115,1,9,3,289000
+3,66170,France,Millas,70,1,9,,44000
+0,67230,France,Sand,235,5,9,3,350000
+1,67000,France,Strasbourg,100,4,9,3,360000
+2,67100,France,Strasbourg,331,7,9,1,375000
+3,67130,France,La Broque,140,4,9,5,85000
+4,67000,France,Strasbourg,72,3,9,2,179000
+5,67190,France,Mutzig,138,3,9,1,195900
+6,67200,France,Strasbourg,85,,9,,169000
+0,69009,France,Lyon 9ème,51,1,9,1,190000
+1,69007,France,Lyon 7ème,86.54,6,9,1,135000
+2,69001,France,Lyon 1er,105,1,9,4,325000
+3,69004,France,Lyon 4ème,79,2,9,4,259000
+4,69006,France,Lyon 6ème,174,6,9,3,629000
+5,69003,France,Lyon 3ème,130,7,9,1,265000
+6,69002,France,Lyon 2ème,160,5,9,1,1300000
+7,69004,France,Lyon 4ème,157,1,9,1,523000
+8,69004,France,Lyon 4ème,74,2,9,1,251000
+9,69004,France,Lyon 4ème,83,6,9,4,272000
+10,69004,France,Lyon 4ème,19,3,9,2,82000
+11,69100,France,Villeurbanne,46,7,9,4,169000
+12,69100,France,Villeurbanne,122,2,9,1,425000
+13,69100,France,Villeurbanne,75,6,9,4,135000
+14,69300,France,Caluire et Cuire,350,2,9,1,1050000
+15,69190,France,Saint-Fons,68,2,9,1,144000
+16,69004,France,Lyon 4ème,237.94,1,9,3,650000
+17,69100,France,Villeurbanne,52,5,9,3,189000
+18,69210,France,L Arbresle,45.55,6,9,2,77000
+19,69400,France,Villefranche sur Saone,99,3,9,3,155000
+20,69510,France,Soucieu-en-Jarrest,120,5,9,1,170000
+21,69700,France,Loire-sur-Rhone,130,1,9,6,239000
+22,69700,France,Loire sur Rhone,118,8,9,5,249000
+23,69700,France,Givors,118.86,7,9,1,249000
+24,69210,France,Lentilly,240,7,9,1,480000
+25,69130,France,Ecully,250,4,9,4,549000
+26,69130,France,Ecully,207.78,4,9,1,549000
+27,69006,France,Lyon 6ème,190,3,9,1,629000
+28,69300,France,Caluire-et-Cuire,210,5,9,3,670000
+29,69160,France,Tassin la Demi Lune,200,2,9,4,699000
+30,69100,France,Villeurbanne,305,2,9,2,220000
+31,69100,France,Villeurbanne,305,2,9,1,395000
+32,69006,France,Lyon 6ème,194,1,9,1,618000
+33,69003,France,Lyon 3ème,103.2,6,9,3,357000
+34,69420,France,Condrieu,70,4,9,,96000
+35,69500,France,Bron,129,2,9,,445000
+36,69400,France,Villefranche-sur-Saône,100,3,9,,155000
+37,69160,France,Tassin la Demi Lune,58.6,3,9,,169000
+38,69160,France,Tassin la Demi Lune,60,,9,,189000
+39,69400,France,Villefranche-sur-Saône,150,,9,,142000
+40,69400,France,Villefranche-sur-Saône,105,,9,,187000
+41,69150,France,Decines Charpieu,83,,9,,198000
+42,69440,France,St Laurent d'Agny,55.1,,9,,116245
+43,69440,France,St Laurent d'Agny,86.5,,9,,172400
+44,69440,France,St Laurent d'Agny,88.46,,9,,184000
+0,72000,France,Le Mans,140,6,9,1,128000
+1,72000,France,Le Mans,407,5,9,4,495000
+2,72000,France,Le Mans,118,5,9,2,169060
+3,72290,France,Ballon,125,3,9,2,24000
+4,72000,France,Le Mans,75,3,9,2,113000
+5,72000,France,Le Mans,145,5,9,1,236000
+6,72000,France,Le Mans,140,6,9,,128000
+0,75008,France,Paris 8ème,57,2,9,1,950000
+1,75010,France,Paris 10ème,138,5,9,3,1250000
+2,75008,France,Paris 8ème,159,5,9,3,1395000
+3,75012,France,Paris 12ème,440,10,9,1,1565000
+4,75011,France,Paris 11ème,74,3,9,1,65000
+5,75011,France,Paris 11ème,69,1,9,1,590000
+6,75002,France,Paris 2ème,184,5,9,3,1825000
+7,75014,France,Paris 14ème,170,5,9,3,1950000
+8,75010,France,Paris 10ème,66,2,9,1,580000
+9,75005,France,Paris 5ème,68,3,9,2,514000
+10,75010,France,Paris 10ème,84,4,9,3,620000
+11,75011,France,Paris 11ème,83,4,9,2,750000
+12,75011,France,Paris 11ème,106.16,5,9,3,840000
+13,75116,France,Paris 16ème,92,3,9,1,1240000
+14,75010,France,Paris 10ème,148,5,9,3,1450000
+15,75005,France,Paris 5ème,225,6,9,5,2350000
+16,75017,France,Paris 17ème,185,7,9,4,2100000
+17,75011,France,Paris 11ème,40,2,9,1,80000
+18,75011,France,Paris 11ème,70,2,9,1,587000
+19,75016,France,Paris 16ème,66,3,9,3,871000
+20,75016,France,Paris 16ème,130,6,9,3,73000
+21,75008,France,Paris 8ème,290,8,9,1,2980000
+22,75007,France,Paris 7ème,113,1,9,1,900000
+23,75002,France,Paris 2ème,210,2,9,5,1420000
+24,75020,France,Paris 20ème,41,4,9,1,245000
+25,75010,France,Paris 10ème,126,6,9,1,790000
+26,75010,France,Paris 10ème,225,3,9,2,1890000
+27,75011,France,Paris 11ème,69,1,9,1,60000
+28,75013,France,Paris 13ème,37.8,2,9,2,345000
+29,75018,France,Paris 18ème,62,2,9,1,398000
+30,75011,France,Paris 11ème,56.8,3,9,1,426000
+31,75020,France,Paris 20ème,71,2,9,2,472500
+32,75018,France,Paris 18ème,46,1,9,1,525000
+33,75011,France,Paris 11ème,69,4,9,2,590000
+34,75019,France,Paris 19ème,82,4,9,2,620000
+35,75019,France,Paris 19ème,82,3,9,1,620000
+36,75011,France,Paris 11ème,83,3,9,3,669000
+37,75019,France,Paris 19ème,100,4,9,1,738500
+38,75018,France,Paris 18ème,175,4,9,3,775000
+39,75005,France,Paris 5ème,74,2,9,3,785900
+40,75014,France,Paris 14ème,103.65,4,9,2,795000
+41,75019,France,Paris 19ème,123,4,9,1,850000
+42,75010,France,Paris 10ème,100,4,9,2,880000
+43,75011,France,Paris 11ème,79,3,9,3,885000
+44,75006,France,Paris 6ème,93,5,9,3,890000
+45,75014,France,Paris 14ème,134,5,9,2,890000
+46,75018,France,Paris 18ème,128,7,9,3,895000
+47,75010,France,Paris 10ème,176,4,9,,980000
+48,75012,France,Paris 12ème,127,5,9,,1090000
+49,75013,France,Paris 13ème,124,,9,,1145000
+50,75010,France,Paris 10ème,150,6,9,5,1160000
+51,75010,France,Paris 10ème,145,4,9,3,1180000
+52,75010,France,Paris 10ème,193,6,9,4,1190000
+53,75003,France,Paris 3ème,180,6,9,3,1190000
+54,75011,France,Paris 11ème,184,5,9,3,1200000
+55,75116,France,Paris 16ème,92,4,9,2,1219000
+56,75016,France,Paris 16ème,92,3,9,2,1240000
+57,75016,France,Paris 16ème,163,6,9,4,1245000
+58,75116,France,Paris 16ème,91,3,9,1,1250000
+59,75116,France,Paris 16ème,92,2,9,1,1250000
+60,75017,France,Paris 17ème,185,5,9,3,1295000
+61,75011,France,Paris 11ème,137,4,9,3,1312500
+62,75011,France,Paris 11ème,166,4,9,2,1500000
+63,75011,France,Paris 11ème,165,3,9,2,1590000
+64,75018,France,Paris 18ème,294,7,9,3,1650000
+65,75013,France,Paris 13ème,200,8,9,5,1650000
+66,75015,France,Paris 15ème,170,6,9,4,1665000
+67,75017,France,Paris 17ème,124,6,9,3,1690000
+68,75011,France,Paris 11ème,251,6,9,4,1785000
+69,75006,France,Paris 6ème,70,2,9,1,1800000
+70,75010,France,Paris 10ème,327,6,9,5,1850000
+71,75012,France,Paris 12ème,220,5,9,4,2050000
+72,75014,France,Paris 14ème,152,4,9,2,2400000
+73,75006,France,Paris 6ème,152,4,9,2,2400000
+74,75007,France,Paris 7ème,152,4,9,2,2400000
+75,75005,France,Paris 5ème,192,5,9,3,2590000
+76,75006,France,Paris 6ème,80,3,9,1,400000
+77,75018,France,Paris 18ème,65,2,9,2,545000
+78,75020,France,Paris 20ème,100,3,9,1,580000
+79,75014,France,Paris 14ème,68,2,9,4,650000
+80,75018,France,Paris 18ème,190,8,9,1,699000
+81,75009,France,Paris 9ème,137,3,9,2,935100
+82,75018,France,Paris 18ème,103,4,9,3,950000
+83,75011,France,Paris 11ème,177,5,9,2,1025000
+84,75006,France,Paris 6ème,208,4,9,3,1950000
+85,75011,France,Paris 11ème,182,6,9,2,2450000
+86,75014,France,Paris 14ème,74,3,9,2,630000
+87,75016,France,Paris 16ème,150,5,9,1,890000
+88,75010,France,Paris 10ème,258,3,9,3,1349000
+89,75020,France,Paris 20ème,52,2,9,3,500000
+90,75011,France,Paris 11ème,64,4,9,1,505000
+91,75017,France,Paris 17ème,83,4,9,2,590000
+92,75017,France,Paris 17ème,111,1,9,3,790000
+93,75005,France,Paris 5ème,62,3,9,3,855900
+94,75015,France,Paris 15ème,80.1,6,9,2,995000
+95,75003,France,Paris 3ème,157,5,9,2,1220000
+96,75020,France,Paris 20ème,135,4,9,,1250000
+97,75018,France,Paris 18ème,125,5,9,,1260000
+98,75018,France,Paris 18ème,162,2,9,,1799000
+99,75020,France,Paris 20ème,60,,9,,380000
+100,75015,France,Paris 15ème,105,4,9,3,1050000
+101,75011,France,Paris 11ème,65,3,9,2,650000
+102,75020,France,Paris 20ème,130,6,9,4,949500
+103,75018,France,Paris 18ème,110,3,9,1,989000
+104,75019,France,Paris 19ème,69,2,9,2,550000
+105,75011,France,Paris 11ème,166,5,9,3,1389000
+106,75011,France,Paris 11ème,48,3,9,1,429000
+107,75018,France,Paris 18ème,90,6,9,1,420000
+108,75011,France,Paris 11ème,73,3,9,1,740000
+109,75013,France,Paris 13ème,178,1,9,3,352000
+110,75002,France,Paris 2ème,160,3,9,2,1390000
+111,75003,France,Paris 3ème,34,2,9,1,335000
+112,75011,France,Paris 11ème,85,4,9,4,699000
+113,75011,France,Paris 11ème,80,3,9,1,819000
+114,75009,France,Paris 9ème,76,2,9,2,828800
+115,75014,France,Paris 14ème,172,7,9,2,1380000
+116,75020,France,Paris 20ème,60,2,9,3,415000
+117,75011,France,Paris 11ème,70,2,9,1,599000
+118,75019,France,Paris 19ème,100,3,9,1,645000
+119,75011,France,Paris 11ème,85,3,9,3,950000
+120,75002,France,Paris 2ème,240,6,9,1,2100000
+121,75116,France,Paris 16ème,91,2,9,1,1250000
+122,75010,France,Paris 10ème,200,1,9,3,1260000
+123,75020,France,Paris 20ème,89,4,9,1,435000
+124,75010,France,Paris 10ème,62,2,9,1,449000
+125,75017,France,Paris 17ème,43,2,9,1,464000
+126,75020,France,Paris 20ème,88,4,9,2,480000
+127,75011,France,Paris 11ème,45,2,9,1,510000
+128,75018,France,Paris 18ème,46,3,9,2,525000
+129,75020,France,Paris 20ème,75,2,9,3,615000
+130,75011,France,Paris 11ème,75,3,9,2,680000
+131,75011,France,Paris 11ème,73,2,9,1,692408
+132,75014,France,Paris 14ème,71,4,9,3,709000
+133,75011,France,Paris 11ème,87,4,9,3,732950
+134,75019,France,Paris 19ème,100,3,9,3,738000
+135,75017,France,Paris 17ème,89.46,3,9,1,745000
+136,75011,France,Paris 11ème,150,5,9,1,780000
+137,75019,France,Paris 19ème,150,5,9,2,780000
+138,75020,France,Paris 20ème,150,5,9,3,780000
+139,75003,France,Paris 3ème,84,3,9,1,820000
+140,75009,France,Paris 9ème,75,3,9,2,840000
+141,75018,France,Paris 18ème,111.8,4,9,3,850000
+142,75020,France,Paris 20ème,127,5,9,2,850000
+143,75009,France,Paris 9ème,59.75,1,9,2,880000
+144,75004,France,Paris 4ème,146,4,9,2,890000
+145,75019,France,Paris 19ème,212,5,9,2,950000
+146,75014,France,Paris 14ème,81,3,9,,950000
+147,75011,France,Paris 11ème,84,3,9,,950000
+148,75011,France,Paris 11ème,85,3,9,,950000
+149,75018,France,Paris 18ème,102,4,9,,1095000
+150,75004,France,Paris 4ème,82.44,3,9,2,1100000
+151,75004,France,Paris 4ème,82.44,3,9,2,1100000
+152,75013,France,Paris 13ème,121.73,4,9,3,1150000
+153,75018,France,Paris 18ème,124,4,9,3,1150000
+154,75012,France,Paris 12ème,94.47,5,9,4,1155000
+155,75010,France,Paris 10ème,145.4,6,9,5,1160000
+156,75010,France,Paris 10ème,154.59,4,9,3,1180000
+157,75003,France,Paris 3ème,177,5,9,4,1210000
+158,75016,France,Paris 16ème,92,3,9,1,1240000
+159,75009,France,Paris 9ème,123,5,9,3,1240000
+160,75016,France,Paris 16ème,90.46,3,9,1,1245000
+161,75018,France,Paris 18ème,127,5,9,3,1270000
+162,75020,France,Paris 20ème,340,7,9,5,1290000
+163,75013,France,Paris 13ème,194.67,7,9,4,1290000
+164,75011,France,Paris 11ème,149.4,5,9,4,1298000
+165,75003,France,Paris 3ème,143,7,9,6,1300000
+166,75010,France,Paris 10ème,196,3,9,2,1320000
+167,75011,France,Paris 11ème,152,5,9,3,1349000
+168,75011,France,Paris 11ème,155,5,9,3,1349000
+169,75011,France,Paris 11ème,217,5,9,3,1350000
+170,75011,France,Paris 11ème,150,3,9,1,1365000
+171,75011,France,Paris 11ème,150,3,9,2,1365000
+172,75010,France,Paris 10ème,234,4,9,2,1400000
+173,75010,France,Paris 10ème,195,5,9,2,1445000
+174,75016,France,Paris 16ème,156,6,9,3,1576000
+175,75002,France,Paris 2ème,85,3,9,1,1583550
+176,75016,France,Paris 16ème,223.45,6,9,4,1590000
+177,75011,France,Paris 11ème,164.15,3,9,2,1590000
+178,75020,France,Paris 20ème,180,7,9,3,1596000
+179,75018,France,Paris 18ème,150,4,9,2,1627500
+180,75011,France,Paris 11ème,208,7,9,3,1640000
+181,75020,France,Paris 20ème,262,5,9,4,1750000
+182,75010,France,Paris 10ème,285.51,5,9,3,1780000
+183,75011,France,Paris 11ème,272,5,9,3,2200000
+184,75006,France,Paris 6ème,195,7,9,4,2600000
+185,75014,France,Paris 14ème,300,10,9,5,3125000
+186,75020,France,Paris 20ème,185,5,9,4,1350000
+187,75008,France,Paris 8ème,45,3,9,1,275000
+188,75017,France,Paris 17ème,61,3,9,2,418000
+189,75012,France,Paris 12ème,60,3,9,1,450000
+190,75017,France,Paris 17ème,56,2,9,1,495000
+191,75008,France,Paris 8ème,80,5,9,3,590000
+192,75008,France,Paris 8ème,90,4,9,2,590000
+193,75011,France,Paris 11ème,70,2,9,1,590000
+194,75011,France,Paris 11ème,98,4,9,3,745000
+195,75003,France,Paris 3ème,80,3,9,2,830000
+196,75014,France,Paris 14ème,65,3,9,2,870000
+197,75010,France,Paris 10ème,338,12,9,5,890000
+198,75014,France,Paris 14ème,72,3,9,2,960000
+199,75008,France,Paris 8ème,175,6,9,3,1000000
+0,76000,France,Rouen,103,5,9,3,224000
+1,76400,France,Fecamp,144,8,9,3,250000
+2,76300,France,Sotteville les Rouen,175,5,9,3,262000
+3,76000,France,Rouen,225,7,9,3,660000
+4,76100,France,Rouen,89.82,3,9,1,197000
+5,76400,France,Fecamp,238,7,9,4,275000
+6,76000,France,Rouen,105,5,9,3,250000
+7,76000,France,Rouen,125,6,9,3,159500
+8,76600,France,Le Havre,190,,9,,442000
+0,80170,France,Rosieres en Santerre,150,3,9,3,260000
+1,80000,France,Amiens,165,4,9,2,455000
+2,80000,France,Amiens,180,3,9,2,575000
+3,80160,France,Conty,168,3,9,2,176000
+4,80000,France,Amiens,138.5,4,9,3,326000
+0,83670,France,Barjols,347,5,9,3,330000
+1,83600,France,Fréjus,100,4,9,3,499000
+2,83700,France,St Raphael,228,6,9,5,390600
+3,83670,France,Barjols,200,8,9,5,228000
+4,83170,France,Brignoles,90,1,9,1,88000
+5,83000,France,Toulon,99,1,9,1,254000
+6,83470,France,Saint Maximin la Sainte Baume,85,2,9,1,199000
+7,83000,France,Toulon,100,3,9,3,300000
+8,83000,France,Toulon,235,4,9,3,472000
+9,83370,France,St Aygulf,190,5,9,2,490000
+10,83980,France,Le Lavandou,60,3,9,6,270000
+11,83120,France,Le Plan-de-la-Tour,300,9,9,1,2400000
+12,83390,France,Pierrefeu-du-Var,31.64,1,9,2,35000
+13,83000,France,Toulon,185,5,9,,500000
+14,83000,France,Toulon,69.23,3,9,,144000
+0,87000,France,Limoges,303,1,9,1,181900
+1,87000,France,Limoges,360,2,9,3,495000
+2,87370,France,Saint-Sulpice-Laurière,90,,9,1,58000
+3,87510,France,Saint-Gence,250,,9,,148000
+0,92600,France,Asnieres sur Seine,335,6,9,3,1225000
+1,92380,France,Garches,238,5,9,3,1050000
+2,92500,France,Rueil Malmaison,270,6,9,4,1570000
+3,92400,France,Courbevoie,443,7,9,4,1700000
+4,92700,France,Colombes,176,7,9,6,660000
+5,92300,France,Levallois-Perret,90,5,9,4,720000
+6,92120,France,Montrouge,124,5,9,3,1010000
+7,92400,France,Courbevoie,171,5,9,3,1040000
+8,92400,France,Courbevoie,207,5,9,3,1040000
+9,92800,France,Puteaux,199,5,9,4,1320000
+10,92400,France,Courbevoie,298,9,9,3,1700000
+11,92100,France,Boulogne-Billancourt,175,7,9,5,1870000
+12,92150,France,Suresnes,360,7,9,5,1990000
+13,92230,France,Gennevilliers,232,8,9,7,380000
+14,92390,France,Villeneuve-la-Garenne,270,8,9,3,620000
+15,92600,France,Asnières-sur-Seine,132,5,9,2,690000
+16,92320,France,Chatillon,217,10,9,5,800000
+17,92400,France,Courbevoie,151,6,9,4,1090000
+18,92240,France,Malakoff,200,6,9,4,1390000
+19,92400,France,Courbevoie,443,7,9,1,1600000
+20,92230,France,Gennevilliers,145,3,9,3,345000
+21,92700,France,Colombes,182,6,9,2,860000
+22,92120,France,Montrouge,259,8,9,1,545000
+23,92600,France,Asnières-sur-Seine,132,5,9,3,690000
+24,92230,France,Gennevilliers,150,4,9,1,338000
+25,92170,France,Vanves,100,10,9,1,58000
+26,92800,France,Puteaux,480,4,9,1,1240000
+27,92140,France,Clamart,94.7,2,9,2,535000
+28,92400,France,Courbevoie,76,3,9,3,470000
+29,92400,France,Courbevoie,76,2,9,2,470000
+30,92400,France,Courbevoie,75.86,3,9,2,470000
+31,92120,France,Montrouge,73,4,9,3,514000
+32,92350,France,Le Plessis Robinson,97,3,9,4,535000
+33,92400,France,Courbevoie,113.27,3,9,4,750000
+34,92400,France,Courbevoie,113,4,9,3,750000
+35,92150,France,Suresnes,111,7,9,4,760000
+36,92700,France,Colombes,234,6,9,3,795000
+37,92700,France,Colombes,220,5,9,1,970000
+38,92400,France,Courbevoie,207,6,9,1,1040000
+39,92240,France,Malakoff,207.19,7,9,3,1390000
+40,92400,France,Courbevoie,443,1,9,1,1690000
+41,92120,France,Montrouge,41,2,9,3,226000
+42,92000,France,Nanterre,46.99,6,9,3,320000
+43,92390,France,Villeneuve-la-Garenne,194,2,9,1,399000
+44,92100,France,Boulogne-Billancourt,61,5,9,3,490000
+45,92230,France,Gennevilliers,162,5,9,3,545000
+46,92370,France,Chaville,119,1,9,,615000
+47,92200,France,Neuilly-sur-Seine,40.5,5,9,,620000
+48,92120,France,Montrouge,215,6,9,,649000
+49,92000,France,Nanterre,131,,9,,728000
+50,92100,France,Boulogne-Billancourt,180,8,9,5,760000
+51,92210,France,Saint-Cloud,180,4,9,3,880000
+52,92600,France,Asnieres sur Seine,176,6,9,5,913000
+53,92600,France,Asnières-sur-Seine,159,6,9,3,949000
+54,92300,France,Levallois-Perret,400,7,9,4,1000000
+55,92340,France,Bourg la Reine,164,8,9,5,1050000
+56,92130,France,Issy-les-Moulineaux,260,8,9,5,1100000
+57,92000,France,Nanterre,400,9,9,6,1150000
+58,92000,France,Nanterre,229,6,9,4,1150000
+59,92300,France,Levallois-Perret,270,7,9,4,1450000
+60,92200,France,Neuilly-sur-Seine,230,4,9,3,1550000
+61,92400,France,Courbevoie,443,7,9,4,1590000
+62,92000,France,Nanterre,120.49,4,9,3,443000
+63,92000,France,Nanterre,125,4,9,3,459000
+64,92000,France,Nanterre,161.2,5,9,4,570000
+65,92000,France,Nanterre,137.5,5,9,4,573000
+66,92220,France,Bagneux,280,7,9,5,590000
+67,92800,France,Puteaux,300,5,9,3,1300000
+68,92140,France,Clamart,249,1,9,2,645000
+69,92110,France,Clichy,100,3,9,2,575000
+70,92400,France,Courbevoie,132,5,9,10,690000
+71,92150,France,Suresnes,157,7,9,3,680000
+72,92800,France,Puteaux,500,10,9,3,1295000
+73,92000,France,Nanterre,108,4,9,,645000
+74,92700,France,Colombes,300,4,9,,1250000
+75,92700,France,Colombes,,1,9,,395000

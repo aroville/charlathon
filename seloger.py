@@ -19,16 +19,12 @@ def search(args):
         'cp': cp
     }
 
-    params = '&'.join([k + "=" + v for k, v in options.items()])
-
-    url = baseurl + params
+    url = baseurl + '&'.join([k + "=" + v for k, v in options.items()])
     print(url)
-    new_url = url
-    current = 1
     results = pd.DataFrame(columns=cols)
 
     while True:
-        tree = etree.parse(new_url)
+        tree = etree.parse(url)
         cur_line = results.shape[0]
 
         for field in results.columns:
@@ -36,11 +32,12 @@ def search(args):
             for s in tree.xpath("/recherche/annonces/annonce/" + field):
                 results.set_value(l, field, s.text if s is not None else 'NA')
                 l += 1
-        new_url_tree = tree.xpath("/recherche/pageSuivante")
-        if len(new_url_tree) == 0:
+
+        try:
+            url = tree.xpath("/recherche/pageSuivante")[0].text
+        except:
             break
-        new_url = new_url_tree[0].text
-        current += 1
+
     return results
 
 pool = Pool()

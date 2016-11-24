@@ -4,11 +4,12 @@ import pandas as pd
 from multiprocessing import Pool
 
 baseurl = 'http://ws.seloger.com/search.xml?'
-cols = ['cp', 'pays', 'ville', 'surface', 'nbPiece', 'idTypeBien',
-        'nbChambre', 'prix']
+cols = ['cp', 'pays', 'ville', 'surface', 'prix',
+        'idTypeBien', 'nbChambre', 'nbPiece']
 
-dep = [6, 13, 21, 25, 29, 30, 31, 33, 34, 35, 37, 38, 42, 44, 45, 49, 51,
-       57, 59, 63, 66, 67, 69, 72, 75, 76, 80, 83, 87, 92]
+idstypebien = [1, 2, 4, 6, 7, 8, 9]
+dep = [6, 13, 21, 25, 29, 30, 31, 33, 34, 35, 37, 38, 42, 44, 45,
+       49, 51, 57, 59, 63, 66, 67, 69, 72, 75, 76, 80, 83, 87, 92]
 
 
 def search(args):
@@ -43,7 +44,7 @@ def search(args):
 
     return results
 
-for idtypebien in [1, 2, 4, 6, 7, 8, 9]:
+for idtypebien in idstypebien:
     pool = Pool()
     results_tot = pool.map(search, [
         [idtypebien, idtt, cp]

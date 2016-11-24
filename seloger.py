@@ -7,6 +7,9 @@ baseurl = 'http://ws.seloger.com/search.xml?'
 cols = ['cp', 'pays', 'ville', 'surface', 'nbPiece', 'idTypeBien',
         'nbChambre', 'prix']
 
+dep = [6, 13, 21, 25, 29, 30, 31, 33, 34, 35, 37, 38, 42, 44, 45, 49, 51,
+       57, 59, 63, 66, 67, 69, 72, 75, 76, 80, 83, 87, 92]
+
 
 def search(args):
     idtypebien = str(args[0])
@@ -45,7 +48,7 @@ results_tot = pool.map(search, [
     [idtypebien, idtt, cp]
     for idtypebien in [1, 2, 4, 6, 7, 8, 9]
     for idtt in [1, 2]
-    for cp in range(1, 96)
+    for cp in dep
     ])
 
 

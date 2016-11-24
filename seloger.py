@@ -43,10 +43,11 @@ def search(args):
 
     return results
 
+
 pool = Pool()
 results_tot = pool.map(search, [
     [idtypebien, idtt, cp]
-    for idtypebien in [1, 2, 4, 6, 7, 8, 9]
+    for idtypebien in [9]#, 2, 4, 6, 7, 8, 9]
     for idtt in [1, 2]
     for cp in dep
     ])
@@ -54,6 +55,6 @@ results_tot = pool.map(search, [
 
 df_tot = pd.DataFrame(results_tot[0])
 for df in results_tot[1:]:
-    df_tot.append(df)
+    df_tot = df_tot.append(df)
 
 df_tot.to_csv('res.csv')

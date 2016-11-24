@@ -4,8 +4,8 @@ import pandas as pd
 from multiprocessing import Pool
 
 baseurl = 'http://ws.seloger.com/search.xml?'
-cols = ["cp", "pays", "ville", "surface", "nbPiece", "idTypeBien",
-        "nbChambre", "prix"]
+cols = ['cp', 'pays', 'ville', 'surface', 'nbPiece', 'idTypeBien',
+        'nbChambre', 'prix']
 
 
 def search(args):
@@ -19,7 +19,7 @@ def search(args):
         'cp': cp
     }
 
-    url = baseurl + '&'.join([k + "=" + v for k, v in options.items()])
+    url = baseurl + '&'.join([k + '=' + v for k, v in options.items()])
     print(url)
     results = pd.DataFrame(columns=cols)
 
@@ -29,12 +29,12 @@ def search(args):
 
         for field in results.columns:
             l = cur_line
-            for s in tree.xpath("/recherche/annonces/annonce/" + field):
+            for s in tree.xpath('/recherche/annonces/annonce/' + field):
                 results.set_value(l, field, s.text if s is not None else 'NA')
                 l += 1
 
         try:
-            url = tree.xpath("/recherche/pageSuivante")[0].text
+            url = tree.xpath('/recherche/pageSuivante')[0].text
         except:
             break
 
